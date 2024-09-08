@@ -1,8 +1,3 @@
-# OnlineShop-DB-Project
-Here’s a concise and well-structured README for your project based on the documents provided for each phase:
-
----
-
 # Online Shop Database Design
 
 This project is a comprehensive database design for an online shop, created as part of a university database course at Amirkabir University of Technology. The design focuses on managing users, products, orders, and other crucial aspects of an online store.
